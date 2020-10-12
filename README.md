@@ -1,6 +1,12 @@
-# pokemon_app
 
-A new Flutter application.
+# Pokemon App
+
+Pokemon App with animations, beautiful UI and network call.
+
+
+## Screenshots
+
+<img src="ss2.png" height="500em" /><img src="ss.png" height="500em" />
 
 ## Getting Started
 
@@ -14,4 +20,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Pokemon_App
+
